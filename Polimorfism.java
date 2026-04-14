@@ -1,4 +1,4 @@
-abstract  class Animal { //Superclasse
+abstract  class Animal /*extends object*/ { //Superclasse
     String name;
 
     public Animal(String nameInt){
